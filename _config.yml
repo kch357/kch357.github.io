@@ -32,11 +32,12 @@ github:
 # twitter:
 #  username: null # change to your Twitter username
 
+author: "ChungHyeok Kang"
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: ChungHyeok Kang
-  email: kch30507@gmail.com # change to your email address
+  name: "ChungHyeok Kang"
+  email: kch30507@gmail.com # change" to your email address
   fediverse_handle: # fill in your fediverse handle. E.g. "@username@domain.com"
   links:
     # The first element serves as the copyright owner's link
