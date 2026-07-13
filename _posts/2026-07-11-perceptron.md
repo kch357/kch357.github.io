@@ -1,5 +1,5 @@
 ---
-title: "[AI] 활성화 함수(Activation Function)가 단조 증가해야 하는 이유"
+title: "[AI] 1. 활성화 함수(Activation Function)가 단조 증가해야 하는 이유"
 author: kch357
 date: 2026-07-11 15:13:00 +0800
 categories: [AI]
