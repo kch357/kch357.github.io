@@ -50,8 +50,8 @@ social:
 
 # Site Verification Settings
 webmaster_verifications:
-  google: # fill in your Google verification code
-  bing: # fill in your Bing verification code
+  google:
+  bing:
   naver: "639d81569dd5d1cc4e7fd01f3ce5ab2d3ae517c7"
 
 # ↑ --------------------------
