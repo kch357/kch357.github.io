@@ -26,6 +26,10 @@ description: >- # used by seo meta and the atom feed
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
 url: "https://blog.kch357.com/"
 
+site_verification:
+  naver: "639d81569dd5d1cc4e7fd01f3ce5ab2d3ae517c7"
+
+
 github:
   username: kch357 # change to your GitHub username
 

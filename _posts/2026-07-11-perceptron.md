@@ -14,7 +14,7 @@ math: true
 위 그림은 입력으로 2개의 신호를 받은 `퍼셉트론(Perceptron)`이다.<br>
 그림의 원을 `뉴런(Neuron)` 혹은 `노드(node)`라고 부른다. $x_1$, $x_2$는 `activation`이라고 부르고 $w_1$, $w_2$는 `가중치(weight)`라고 한다.
 
-출력값 $y$는 $h(w_1 x_1 + w_2 x_2 + b)$이다. 이 때 $b$를 `bias`라고 하고 $h(x)$를  `활성화 함수(Axtivation Function)`라고 한다.
+출력값 $y$는 $h(w_1 x_1 + w_2 x_2 + b)$이다. 이 때 $b$를 `bias`라고 하고 $h(x)$를  `활성화 함수(Activation Function)`라고 한다.
 
 ![Desktop View](/assets/img/2026-07-11-perceptron/XOR.PNG){: height="589"}
 
